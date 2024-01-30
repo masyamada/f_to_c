@@ -14,7 +14,7 @@ fn main() {
 
     while keep_going == true {
 
-        println!("Hello, world! please tell me what the temperature is (deg F), or type 'quit'") ;
+        println!("Hello, human! please tell me what the temperature is (deg F), or type 'quit'") ;
 
         // read fahrenheit
         fahrenheit_txt.clear() ;
